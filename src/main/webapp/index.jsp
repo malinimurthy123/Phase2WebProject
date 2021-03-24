@@ -27,10 +27,12 @@
     <div class="form-group">
     <input type="submit" class="btn btn-secondary" value="Submit" />
     </div>
+    </div>
 </form>
+
+
 <BR>
 <a href="authenticate">HomePage</a>
 
-</div>
 </body>
 </html>
