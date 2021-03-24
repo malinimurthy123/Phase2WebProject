@@ -14,13 +14,13 @@
 <form action="loginsuccess.jsp" method="post">
     <div class="col-md-8 order-md-1">
     <div class="form-group">
-    User ID:<input type="text" class="form-control" name="username" />
+    User ID:<input type="text" class="form-control" name="username" required/>
     </div>
     <br>
     <br>
 
     <div class="form-group">
-    Password:<input type="text" class="form-control" name="password" />
+    Password:<input type="text" class="form-control" name="password" required/>
     </div>
     <br>
     <br>
